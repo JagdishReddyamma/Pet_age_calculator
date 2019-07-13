@@ -2,6 +2,7 @@ package com.example.firstproject;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -45,5 +46,6 @@ public class MainActivity extends AppCompatActivity {
         int petAge = Calendar.getInstance().get(Calendar.YEAR)-Integer.parseInt(edt.getText().toString());
         TextView txt =findViewById(R.id.pet_age);
         txt.setText(petAge+" is the total age upto this year");
+        Log.i("Msg","This is a first app");
     }
 }

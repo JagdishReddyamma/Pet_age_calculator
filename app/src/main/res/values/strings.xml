@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My learning</string>
+    <string name="this_is_the_android_development_course">This is the android development course</string>
+    <string name="i_am_an_android_developer">I Am an android developer</string>
+    <string name="click_me">Click Me</string>
+    <string name="please_entrer_your_name">Please entrer your name...</string>
+</resources>

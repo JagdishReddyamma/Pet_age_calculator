@@ -8,4 +8,6 @@ It will work only in the portrait mode does not work in landscape mode.
 Still it is in development mode.
 If anyone want to develop this project they can just clone my github code.
 
+![pet_age](https://user-images.githubusercontent.com/52857902/61230712-33cbf800-a748-11e9-88d8-cc363a59994d.png)
+
 
